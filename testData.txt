@@ -1,3 +1,20 @@
 Customer	john.smith	password123
 Agent	agent.wilson	agent123
 Admin	admin	admin123
+
+# OpenAI API Key - Replace with your actual key
+OPENAI_API_KEY=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
+
+# Model Configuration
+OPENAI_MODEL=gpt-4o-mini
+OPENAI_EMBEDDING_MODEL=text-embedding-3-small
+
+# ChromaDB
+CHROMA_PERSIST_DIR=./chroma_db
+
+# SQLite Persistent DB
+SQLITE_DB_PATH=./data/insurance_hub.db
+
+# Chunk Settings
+CHUNK_SIZE=1000
+CHUNK_OVERLAP=200
