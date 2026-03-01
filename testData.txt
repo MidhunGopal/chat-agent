@@ -1,9 +1,6 @@
 Customer	john.smith	password123
 Agent	agent.wilson	agent123
-Admin	admin	admin123
-
-# OpenAI API Key - Replace with your actual key
-OPENAI_API_KEY=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
+Admin	admin	admin123k-proj-8I_zeItmiXeIkHGmjNb0GfYOvu21pJ00AEcjevN-Hgc8OkRF1M3YgnBbS7wQuiI08TK8URXyFnT3BlbkFJGtdacxKo_WfwfTMDGMoQ13tCBNu3M3c6zTYUEwHPX_LkW-SgmJCoPidlRjGs5aCE_m0Fdu2MoA
 
 # Model Configuration
 OPENAI_MODEL=gpt-4o-mini
